@@ -1,0 +1,21 @@
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\bin\Debug\StillKicking.exe.config
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\bin\Debug\StillKicking.exe
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\bin\Debug\StillKicking.pdb
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\bin\Debug\KinectExplorer-WPF.exe
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\bin\Debug\KinectExplorer-WPF.pdb
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\obj\Debug\StillKicking.csprojResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\obj\Debug\MainWindow.baml
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\obj\Debug\MainWindow.g.cs
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\obj\Debug\App.g.cs
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\obj\Debug\StillKicking_MarkupCompile.cache
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\obj\Debug\StillKicking.g.resources
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\obj\Debug\StillKicking.Properties.Resources.resources
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\obj\Debug\StillKicking.csproj.GenerateResource.Cache
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\obj\Debug\StillKicking.exe
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\obj\Debug\StillKicking.pdb
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\obj\Debug\Start Window.baml
+C:\Users\Bruce\Documents\Visual Studio 2013\Projects\StillKicking\StillKicking\obj\Debug\Start Window.g.cs

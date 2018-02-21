@@ -1,0 +1,9 @@
+﻿<Window x:Class="StillKicking.Start_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Start_Window" Height="460.272" Width="479.563">
+    <Grid>
+        <Image HorizontalAlignment="Center" Height="345" VerticalAlignment="Center" Width="520" Source="Images/start_screen.jpg" Stretch="Fill" Margin="0,0,0,-22.5"/>
+       
+    </Grid>
+</Window>
